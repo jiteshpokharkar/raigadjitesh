@@ -1,0 +1,160 @@
+{
+	font-family: 'Mingzat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+	text-align:center;
+	margin-top:20px;
+	font-weight:bold;
+	color:#a32727
+}
+
+.jit{
+	text-align:center;
+	color:#a32727;
+	margin-left:50px;
+		
+}
+.container_12{
+	
+	background-color:pink;
+	margin-top:40px;
+	
+}
+
+.name{
+	font-size:40px;
+	
+}
+
+
+.logo{
+	
+	height:150px;
+}
+
+.menu{
+	
+	background-color:#4e97df;
+	height:30px;
+	text-align:center;
+	
+}
+
+.menu a{
+
+	color:white;
+	text-decoration:none;
+	font-weight:bold;
+	display:block;
+	font-size:25px;
+	
+}
+
+.banner{
+	height:400px;
+	margin-top:10px;
+	
+	
+}
+
+.section{
+	
+	/*border-style:solid;*/
+	height:30px;
+	margin-top:10px;
+	text-align:center;
+	background-color:#4e97df;
+	font-weight:bold;
+	color:white;
+	font-size:25px;
+}
+
+.plant{
+	margin-top:10px;
+	
+}
+
+.button{
+	
+	
+}
+
+.wash{
+	
+	margin-top:10px;
+}
+
+.washsand{
+	
+	margin-top:5px;
+	text-align:center;
+}
+
+.metal{
+	
+	margin-top:10px;
+	
+}
+
+.footer{
+	/*border-style:solid;*/
+	height:100px;
+	margin-top:10px;
+	text-align:center;
+	background-color:#4e97df;
+	font-weight:bold;
+	color:black;
+	
+}
+
+.contact{
+	
+	text-align:center;
+	font-size:40px;
+	font-weight:bold;
+	color:#b67b9e;
+}
+
+.address{
+	
+	font-size:20px;
+	font-weight:bold;
+	margin-top:100px;
+}
+
+.feedback{
+	
+	border-style:solid;
+	box-sizing:border-box;
+	margin-top:10px;
+}
+
+.table{
+	margin-top:10px;
+	border-style:solid;
+	box-sizing:border-box;
+	height:358px;
+}
+
+.machine{
+	
+	margin-top:10px;
+	font-size:20px;
+	text-align:center;
+}
+
+.button{
+	
+	
+	margin-left:50px;
+	border-width:0px;
+	background-color:green;
+	color:white;
+	border-radius:3px;
+	font-weight:bold;
+	
+}
+
